@@ -20,5 +20,8 @@
         string estado = Completada ? "Completada" : "Pendiente";
         return $"{Nombre} [{estado}]";
     }
-    //18 A 22 TOSTRING PARA DAR ESTRUCTURA A LA TAREA
+    
+    public string Descripcion { get; set; }
+    public List<string> Etiquetas { get; set; } = new List<string>(); // Nueva propiedad
+
 }

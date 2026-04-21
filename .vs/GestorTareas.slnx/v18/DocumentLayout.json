@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\",
+  "WorkspaceRootPath": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\source\\repos\\gestortareas\\gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\downloads\\t3_a3\\gestordetareas\\gestortareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\downloads\\t3_a3\\gestordetareas\\gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\source\\repos\\gestortareas\\gestortareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\downloads\\t3_a3\\gestordetareas\\gestortareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|c:\\users\\srortiz\\source\\repos\\gestortareas\\gestortareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{523B2374-83F4-4721-D268-ABA486D7F251}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\Tarea.cs",
               "RelativeDocumentMoniker": "GestorTareas\\Tarea.cs",
-              "ToolTip": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\Tarea.cs",
+              "ToolTip": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\Tarea.cs",
               "RelativeToolTip": "GestorTareas\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T08:51:09.416Z"
+              "WhenOpened": "2026-01-26T08:51:09.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GestorDeTareas.cs",
-              "DocumentMoniker": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\GestorDeTareas.cs",
+              "DocumentMoniker": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\GestorDeTareas.cs",
               "RelativeDocumentMoniker": "GestorTareas\\GestorDeTareas.cs",
-              "ToolTip": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\GestorDeTareas.cs",
+              "ToolTip": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\GestorDeTareas.cs",
               "RelativeToolTip": "GestorTareas\\GestorDeTareas.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\Program.cs",
               "RelativeDocumentMoniker": "GestorTareas\\Program.cs",
-              "ToolTip": "C:\\Users\\SrOrtiz\\source\\repos\\GestorTareas\\GestorTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\SrOrtiz\\Downloads\\t3_a3\\GestorDeTareas\\GestorTareas\\Program.cs",
               "RelativeToolTip": "GestorTareas\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
